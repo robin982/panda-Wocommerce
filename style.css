@@ -22,4 +22,48 @@
     cursor: pointer;
 
 }
+.dog1 , .dog2, .dog3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.dog1{
+    background-color: yellow;
+    
+}
 
+.dog2{
+    background-color: orange;
+
+}
+.dog3{
+    background-color: blue;
+    
+} 
+
+ .categories h1{
+     color:#fff;
+
+ }
+.categories img{
+    width:100px;
+}
+.card{
+    border:none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+ .card-footer{
+    background-color: #fff;
+     border-top:none;
+ }
+ #Subscribe{
+     height:300px;
+
+ }
+ #Subscribe h6{
+     color:gray;
+ }
+
+ .copy{
+     text-align: center;
+ }
